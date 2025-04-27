@@ -2970,7 +2970,7 @@ h6,
 .main-block {
 	padding-top: 340px;
 	padding-bottom: 237px;
-	background-image: url(https://via.placeholder.com/1920x910);
+	background-image: url("../img/main-bg.jpg");
 	background-position: center;
 	background-repeat: no-repeat;
 	-webkit-background-size: cover;
@@ -3417,6 +3417,7 @@ h6,
 
 .advantages {
 	padding-top: 190px;
+	padding-bottom: 190px;
 }
 
 .advantages-items {
@@ -8249,6 +8250,7 @@ input[type="search"]::-webkit-search-results-decoration {
 	}
 	.advantages {
 		padding-top: 110px;
+		padding-bottom: 80px;
 	}
 	.advantages-items {
 		margin-left: -30px;
@@ -8814,6 +8816,7 @@ input[type="search"]::-webkit-search-results-decoration {
 	}
 	.advantages {
 		padding-top: 60px;
+		padding-bottom: 50px;
 	}
 	.advantages-items {
 		-webkit-flex-wrap: wrap;
